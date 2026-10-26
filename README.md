@@ -34,18 +34,15 @@
 
 [Link Seminar III](Seminarii/seminar%20III.pdf)
 
-[Link Seminar IV](Seminarii/seminar%20IV.pdf)
+[Link Seminar IV](Seminarii/seminarIV.pdf)
 
-[Link Seminar V](Seminarii/seminar%20V.pdf)
+[Link Seminar V](Seminarii/seminarV.pdf)
 
-[Link Seminar VI](Seminarii/seminar%20VI.pdf)
+[Link Seminar VI](Seminarii/seminarVI.pdf)
 
-[Link Seminar VII](Seminarii/seminar%20VII.pdf)
+[Link Seminar VII](Seminarii/seminarVII.pdf)
 
 [Link Seminar Bonus](Seminarii/Exercitii13.pdf)
-
-## Colocvii 2024-2026
-
 
 ## Resurse
 - De la Marius MC (Exemple de cod si explicatii direct pe ce aveti de implementat la proiect)
