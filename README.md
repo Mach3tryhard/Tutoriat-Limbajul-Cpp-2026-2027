@@ -44,6 +44,9 @@
 
 [Link Seminar Bonus](Seminarii/Exercitii13.pdf)
 
+## Colocvii 2024-2026
+
+
 ## Resurse
 - De la Marius MC (Exemple de cod si explicatii direct pe ce aveti de implementat la proiect)
   - [Link Proiect Tema 1](https://github.com/mcmarius/poo/tree/master/tema-1)
