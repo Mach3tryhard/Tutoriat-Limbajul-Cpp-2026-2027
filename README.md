@@ -44,6 +44,18 @@
 
 [Link Seminar Bonus](Seminarii/Exercitii13.pdf)
 
+## Colocvii 2024-2026
+
+[Link Colocviu 2024-2](Colocvii/colocviu_2024_2.jpg)
+[Link Colocviu 2025-1](Colocvii/colocviu_2025_1.jpg)
+[Link Colocviu 2025-2](Colocvii/colocviu_2025_2.jpg)
+[Link Colocviu 2026-1](Colocvii/colocviu_2026_1.jpg)
+[Link Colocviu 2026-2](Colocvii/colocviu_2026_2.jpg)
+
+## Rezolvari Colocvii:
+- De noi : [TBD]
+- Mcmarius: [Link Rezolvari si sfaturi Colocvii](https://github.com/mcmarius/poo/tree/master/colocviu)
+
 ## Resurse
 - De la Marius MC (Exemple de cod si explicatii direct pe ce aveti de implementat la proiect)
   - [Link Proiect Tema 1](https://github.com/mcmarius/poo/tree/master/tema-1)
