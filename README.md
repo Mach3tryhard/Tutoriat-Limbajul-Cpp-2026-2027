@@ -1,6 +1,6 @@
 # Tutoriat-Limbajul-Cpp-2026-2027
 
-## Cursuri 2025-2026 (Doamna profesoara a zis ca o sa schimbe putin materia)
+## Cursuri 2025-2026
 
 [Link Curs 1](Cursuri/curs1_POO_2025%20-%202026%20-%20CTI.pdf)
 
@@ -26,13 +26,27 @@
 
 [Link Curs 12](Cursuri/curs12_POO_2025-2026_CTI.pdf)
 
-## Exercitii Examen
+## Seminarii 2025-2026
 
-[Link Exercitii 1](Exercitii/Exercitii13.pdf)
+[Link Seminar I](Seminarii/seminar%20I.pdf)
 
-## Alte resurse:
+[Link Seminar II](Seminarii/seminar%20II.pdf)
+
+[Link Seminar III](Seminarii/seminar%20III.pdf)
+
+[Link Seminar IV](Seminarii/seminar%20IV.pdf)
+
+[Link Seminar V](Seminarii/seminar%20V.pdf)
+
+[Link Seminar VI](Seminarii/seminar%20VI.pdf)
+
+[Link Seminar VII](Seminarii/seminar%20VII.pdf)
+
+[Link Seminar Bonus](Seminarii/Exercitii13.pdf)
+
+## Resurse
 - De la Marius MC (Exemple de cod si explicatii direct pe ce aveti de implementat la proiect)
   - [Link Proiect Tema 1](https://github.com/mcmarius/poo/tree/master/tema-1)
   - [Link Proiect Tema 2](https://github.com/mcmarius/poo/tree/master/tema-2)
   - [Link Proiect Tema 3](https://github.com/mcmarius/poo/tree/master/tema-3)
-- Quiz POO (stil intrebari examen): [Quiz POO](https://github.com/adrgs/oopquiz)
+- Quiz POO (stil intrebari examen): [Quiz POO](https://oopquiz.fly.dev/?id=1) facut de [adragos](https://github.com/adrgs)
