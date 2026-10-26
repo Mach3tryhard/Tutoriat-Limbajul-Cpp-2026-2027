@@ -30,3 +30,9 @@
 
 [Link Exercitii 1](Exercitii/Exercitii13.pdf)
 
+## Alte resurse:
+- De la Marius MC (Exemple de cod si explicatii direct pe ce aveti de implementat la proiect)
+  - [Link Proiect Tema 1](https://github.com/mcmarius/poo/tree/master/tema-1)
+  - [Link Proiect Tema 2](https://github.com/mcmarius/poo/tree/master/tema-2)
+  - [Link Proiect Tema 3](https://github.com/mcmarius/poo/tree/master/tema-3)
+- Quiz POO (stil intrebari examen): [Quiz POO](https://github.com/adrgs/oopquiz)
