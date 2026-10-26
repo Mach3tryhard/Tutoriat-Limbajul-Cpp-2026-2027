@@ -26,6 +26,32 @@
 
 [Link Curs 12](Cursuri/curs12_POO_2025-2026_CTI.pdf)
 
+## Coduri 2025-2026
+
+[Link Coduri 1](Coduri/coduri_curs1/)
+
+[Link Coduri 2](Coduri/coduri_curs2/)
+
+[Link Coduri 3](Coduri/coduri_curs3/)
+
+[Link Coduri 1](Coduri/coduri_curs4/)
+
+[Link Coduri 1](Coduri/coduri_curs5/)
+
+[Link Coduri 1](Coduri/codusi_curs6/)
+
+[Link Coduri 1](Coduri/cursuri_curs7/)
+
+[Link Coduri 1](Coduri/cursuri_curs8/)
+
+[Link Coduri 1](Coduri/cursuri_curs9/)
+
+[Link Coduri 1](Coduri/cursuri_curs10/)
+
+[Link Coduri 1](Coduri/coduri_curs11/)
+
+[Link Coduri 1](Coduri/coduri_curs12/)
+
 ## Seminarii 2025-2026
 
 [Link Seminar I](Seminarii/seminar%20I.pdf)
@@ -47,9 +73,13 @@
 ## Colocvii 2024-2026
 
 [Link Colocviu 2024-2](Colocvii/colocviu_2024_2.jpg)
+
 [Link Colocviu 2025-1](Colocvii/colocviu_2025_1.jpg)
+
 [Link Colocviu 2025-2](Colocvii/colocviu_2025_2.jpg)
+
 [Link Colocviu 2026-1](Colocvii/colocviu_2026_1.jpg)
+
 [Link Colocviu 2026-2](Colocvii/colocviu_2026_2.jpg)
 
 ## Rezolvari Colocvii:
